@@ -1,6 +1,6 @@
-package article.base;
+package com.example.simpleapp.article.base;
 
-import article.service.ArticleService;
+import com.example.simpleapp.article.service.ArticleService;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
